@@ -25,3 +25,6 @@
 
 
 ![Screenshot (25)](https://github.com/hardik-05/Custom_LLama/assets/73483500/1a3220e3-37d5-4acf-b5ef-acc374ba0ab7)
+
+![Screenshot (26)](https://github.com/hardik-05/Custom_LLama/assets/73483500/32469056-4bb2-42fe-ad37-3abe0e24d17d)
+
