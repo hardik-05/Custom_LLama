@@ -24,3 +24,4 @@
     - PyPDF2 (for PDF document loading)
 
 
+![Screenshot (25)](https://github.com/hardik-05/Custom_LLama/assets/73483500/1a3220e3-37d5-4acf-b5ef-acc374ba0ab7)
